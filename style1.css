@@ -1,0 +1,12 @@
+.search-box{
+	position: absolute;
+	 top: 25%;
+	left: 50%;
+	text-align: center;
+	 margin-right: 0;
+	transform: translate(-50%,-50%);
+	background: #2f3640;
+	height: 20px;
+	border-radius: 20px;
+	padding: 40px;
+}
